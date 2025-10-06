@@ -6,19 +6,24 @@ h1{
     color: maroon;
     text-align: center;
 }
+
 .about {
     color: maroon;
     font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
 }
 .skills {
     color: maroon;
     font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
 }
 .projects {
     color: maroon;
     font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
 }
 .contact {
     color: maroon;
     font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
 }
