@@ -7,22 +7,22 @@ h1{
     text-align: center;
 }
 
-.about {
+.about  h2{
     color: maroon;
     font-family: Arial, Helvetica, sans-serif;
     margin: auto;
 }
-.skills {
+.skills  h2{
     color: maroon;
     font-family: Arial, Helvetica, sans-serif;
     margin: auto;
 }
-.projects {
+.projects h2 {
     color: maroon;
     font-family: Arial, Helvetica, sans-serif;
     margin: auto;
 }
-.contact {
+.contact  h2{
     color: maroon;
     font-family: Arial, Helvetica, sans-serif;
     margin: auto;
