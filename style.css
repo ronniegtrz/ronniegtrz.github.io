@@ -49,3 +49,8 @@ border: 2px solid rgb(126, 14, 201); /* choose a color */
 display: block;
 margin: auto;
 }
+.projects { 
+    /* make the blobs float side-by-side */
+	display:flex; 
+	flex-wrap:wrap;  
+} 
