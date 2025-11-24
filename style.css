@@ -16,7 +16,7 @@ h1{
 .skills  h2{
     color: maroon;
     font-family: Arial, Helvetica, sans-serif;
-    width: 30%;
+    margin: auto;
 }
 .projects h2 {
     color: maroon;
